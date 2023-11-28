@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:jurysofttask/application/home/home_bloc.dart';
-import 'package:jurysofttask/application/product/bloc/product_bloc.dart';
+import 'package:jurysofttask/application/product/product_bloc.dart';
 import 'package:jurysofttask/core/constant.dart';
 import 'package:jurysofttask/domain/home/home_model/home_model.dart';
 import 'package:jurysofttask/presentation/product_screen/product_screen.dart';

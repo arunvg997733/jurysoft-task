@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jurysofttask/application/cart/bloc/cart_bloc.dart';
+import 'package:jurysofttask/application/cart/cart_bloc.dart';
 import 'package:jurysofttask/application/home/home_bloc.dart';
-import 'package:jurysofttask/application/main/bloc/main_bloc.dart';
-import 'package:jurysofttask/application/product/bloc/product_bloc.dart';
+import 'package:jurysofttask/application/main/main_bloc.dart';
+import 'package:jurysofttask/application/product/product_bloc.dart';
 import 'package:jurysofttask/domain/core/di/injectable.dart';
 import 'package:jurysofttask/presentation/main_screen/main_screen.dart';
 

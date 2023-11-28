@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jurysofttask/application/main/bloc/main_bloc.dart';
+import 'package:jurysofttask/application/main/main_bloc.dart';
 import 'package:jurysofttask/core/constant.dart';
 import 'package:jurysofttask/domain/home/data/screen_list.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

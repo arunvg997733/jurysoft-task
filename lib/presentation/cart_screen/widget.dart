@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jurysofttask/application/cart/bloc/cart_bloc.dart';
+import 'package:jurysofttask/application/cart/cart_bloc.dart';
 import 'package:jurysofttask/core/constant.dart';
 import 'package:jurysofttask/domain/home/home_model/home_model.dart';
 import 'package:jurysofttask/presentation/payment_screen/payment_screen.dart';
